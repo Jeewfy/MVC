@@ -1,4 +1,4 @@
-from controller import Controller
+from Note.controller import Controller
 
 
 def main():

@@ -1,5 +1,5 @@
-from model import Database, Note
-from view import UserMenu
+from Note.model import Database, Note
+from Note.view import UserMenu
 
 
 class Controller:
